@@ -1,0 +1,16 @@
+PODS:
+  - QYHCycleScrollView (0.1.0)
+
+DEPENDENCIES:
+  - QYHCycleScrollView (from `../`)
+
+EXTERNAL SOURCES:
+  QYHCycleScrollView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QYHCycleScrollView: 0b81ed5d626e6c7d1414ed7296f9864f1b9c8160
+
+PODFILE CHECKSUM: 9c5ab4065c7c3f56c434d004fa8188e11e8d3188
+
+COCOAPODS: 1.11.3

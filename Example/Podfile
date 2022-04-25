@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'QYHCycleScrollView_Example' do
+  pod 'QYHCycleScrollView', :path => '../'
+
+  target 'QYHCycleScrollView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
